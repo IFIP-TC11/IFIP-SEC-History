@@ -1,4 +1,4 @@
-# IFIP SEC History
+# IFIP SEC History Website
 This repository is the web content repository for the https://history.ifipsec.org website.
 This website documents the history of the IFIP TC11 SEC conference.
 
