@@ -1,0 +1,124 @@
+*********************************************************************
+                        CALL FOR PARTICIPATION
+*********************************************************************
+
+                            IFIP/SEC 2005
+                        May 30 - June 1, 2005
+                     Makuhari-Messe, Chiba, JAPAN
+                       http://www.sec2005.org/
+
+*********************************************************************
+
+                        Special Session 1:
+               SECURITY MANAGEMENT AND IT GOVERNANCE
+                 30th May, 11:30 - 13:00, Room 303
+
+(1)  ISMS in Action - an innovative approach
+             William List, Partner, Wm. List & Co, UK
+
+(2) Practices and Experiments of Information Security Management
+             Koji Nakao, Director, KDDI Corp., Japan
+
+                    organized by Leon Strous and Masakatsu Nishigaki 
+
+*********************************************************************
+
+Talk 1: ISMS in Action - an innovative approach
+ 
+Speaker:
+William List
+CA FBCS CITP,
+Partner, Wm. List & Co, UK
+
+Abstract:
+   Information security forms part of an organisation's total internal 
+control system (ICS).  Using the ISMS described in BS7799-2:2002 as a 
+base an ICS can be managed and include the wide variety of issues 
+necessary to be covered in an ICS.
+   If the risk treatment plans are created in the form of a story, 
+telling how the management have implemented controls to limit unwanted 
+impacts arising from events then it is much easier for everyone to 
+understand why controls are in place.
+   The effectiveness of the ICS can be determined by the management 
+system's ability to ensure that incidents are detected in sufficient 
+time to limit damage to the organisation.
+   The use of HTML technology to record the ISMS and associated material 
+makes it very much simpler for people to perform the necessary work of 
+establishing and maintaining the ISMS as well as simplifying the task of 
+certification auditors.
+
+Talk 2: Practices and Experiments of Information Security Management
+
+Speaker:
+Koji Nakao
+Director,
+Information Security Technology Dept., IT Development Div.,
+KDDI Corp., Japan
+
+Abstract:
+   In the early 1990's, although many cryptographic technologies had been 
+developed, issues on security technologies were in chaos. We did not 
+understand and clarify what was the risk, and how to link between 
+security and business. BS 7799 has excellently provided 
+an elegant solution to propose Information Security Management for 
+Information Asset of organisations. For ten years, the so-called ISMS based 
+on BS7799 has been widely popularized all over the world as a COMMON 
+LANGUAGE for information security.
+   For the purpose of information security, the organisation should 
+properly establish and continuously maintain the information security 
+management. In addition to this, training and education of Information 
+Security Management are also getting important. Although the importance 
+of information security management has been getting widely recognition in 
+Japan, it is not the final goal just to obtain the ISMS certification.
+   In my speech, after the introduction of the current activities of 
+ISMS in Japan, I would like to focus on management know-how and 
+technologies how to effectively develop and maintain ISMS. That is to 
+say, key issues to be considered are to establish procedures and methods 
+for the security controls based on the culture of an organisation and to 
+pursue an effective bridge between management control processes and 
+technical control processes.
+
+Speakers' Bibliography:
+
+   Mr. William List, CA FBCS CITP, is the sole partner of Wm. List &
+Co, an accounting practice in the UK.
+   He qualified as a Chartered Accountant and specialised in computer
+audit and security for over 40 years. He was a computer audit (now
+IRMA) partner in KPMG based in London. Over the years he was involved
+with a wide range of clients in diverse industries.
+   He is a member of the team in UK that developed the Information
+Security Management Standard (ISO/IEC17799) and BS7799 Part 2. He has
+been involved in the debate on how to construct effective E-Commerce
+and E-Government systems, including use of digital signatures. He is
+currently researching the linkage between information security,
+assurance and the internal control component of Corporate Governance.
+   He is an acknowledged international expert in the use of control
+and security techniques in application systems, including those
+involving networks, Internet, EDI and distributed processing. He has
+spoken and written extensively on auditing, security and control topics.
+   He served on the British Computer Society standing security committee
+for some 20 years being Chairman for five of them. He represents the
+British Computer Society on IFIP TC11. He has also served on the IT
+committees of both the Institute of Chartered Accountants in England
+and Wales and the Institute of Chartered Accountants of Scotland.
+   He is an Honorary Fellow of the British Computer Society; a
+visiting Fellow of City University Business School and was awarded a
+silver core award by IFIP in September 2001.
+
+   Mr. Koji Nakao received the B.E. degree of Mathematics from Waseda 
+University, in Japan, in 1979. He joined KDD (now KDDI) and has been 
+engaged in the research on multimedia communications, communication 
+protocol, secure communicating system and information security 
+technology for the telecommunications network.
+   He has been involved in ISO and ITU-T activities for many years as for 
+telematic services protocol and information security technology. He is 
+currently acting as a chairman of ISO/IEC WG1/SC27 in Japan and as a 
+rapporteur of ITU-T SG17/Q7 to be involved in the activities mainly on 
+information security management.
+   He is also an active member of Japan ISMS user group which is planned 
+to establish in the 1st Quarter of 2004, and is a board member of Japan 
+Information Security Audit Association, a Technical Group Chair (ICSS: 
+Information and Communication System Security) of The Institute of 
+Electronics, Information and Communication Engineers. He received IPSJ 
+Research Award in 1992. He is a member of IPJS and IEICE. He has been a 
+part-time instructor in Waseda University since 2002.

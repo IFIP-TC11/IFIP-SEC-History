@@ -1,0 +1,83 @@
+*********************************************************************
+                        CALL FOR PARTICIPATION
+*********************************************************************
+
+                            IFIP/SEC 2005
+                        May 30 - June 1, 2005
+                     Makuhari-Messe, Chiba, JAPAN
+                       http://www.sec2005.org/
+
+*********************************************************************
+
+The 20th IFIP International Information Security Conference (IFIP/SEC 2005)
+will be held at Makuhari-Messe, Chiba, JAPAN, May 30-June 1, 2005.
+
+IFIP/SEC 2005 is organized by IFIP TC-11 (Technical Committee on
+Security & Protection in Information Processing Systems;
+http://www.ifip.tu-graz.ac.at/TC11/) with the support of IPSJ (Information
+Processing Society of Japan; http://www.ipsj.or.jp/11english/).
+
+
+                        CONFERENCE OUTLINE
+
+The organizing committee would like to invite you to attend the 20th
+IFIP International Information Security Conference (SEC2005).
+
+More than 100 papers on topics including the following areas were submitted,
+and 36 accepted papers will be presented in regular sessions. In addition,
+attractive special sessions are scheduled.
+
+  - Applications of cryptography  - Data and system integrity
+  - Authentication                - Authorization and access control
+  - Data protection               - Information warfare and critical
+  - DRM & content security          protection infrastructure
+  - Privacy, anonymity            - Security models and policies
+  - Computer forensics            - Risk analysis and risk management
+  - Internet and web security     - Secure e-government
+  - Information hiding            - e-business/e-commerce security
+  - Security in sensor networks   - Secure information systems
+  - Intrusion detection             development
+  - Security management           - Assurance
+  - Security verification         - Key management
+  - Commercial and industrial     - Security architectures
+    security                      - Information law, ethics
+                                  - Mobility and ubiquitous systems
+
+Please check the detailed conference program at
+
+                 http://www.sec2005.org/program.html .
+
+                     CONFERENCE REGISTRATION
+
+On-line registration is available through the main website of the Conference,
+or directly at
+
+              http://www.sec2005.org/registration.html .
+
+Please visit here to find the detailed information and register. 
+
+Early-bird registration is offered.
+
+           Early-bird registration deadline : May 25, 2005
+
+For help or additional instructions about registration, please feel free
+to send e-mail to
+
+                     registrar@sec2005.org .
+
+                          CONTACT TO
+
+                       info@sec2005.org
+
+
+                          COMMITTEES
+
+                   Conference General Chair
+        Ryoichi SASAKI, Tokyo Denki University, JAPAN
+
+                Programme Committee co-Chairs
+        Sihan QING, Chinese Academy of Sciences, CHINA
+          Eiji OKAMOTO, University of Tsukuba, JAPAN
+
+               Local Organizing Committee Chair
+      Yuko MURAYAMA, Iwate Prefectural University, JAPAN

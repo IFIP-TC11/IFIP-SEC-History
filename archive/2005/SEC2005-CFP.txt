@@ -1,0 +1,88 @@
+*********************************************************************
+                           CALL FOR PAPERS
+*********************************************************************
+
+                            IFIP/SEC 2005
+                        May 30 - June 1, 2005
+                     Makuhari-Messe, Chiba, JAPAN
+                       http://www.sec2005.org/
+
+*********************************************************************
+
+The 20th IFIP International Information Security Conference (IFIP/SEC 2005)
+will be held at Makuhari-Messe, Chiba, JAPAN, May 30-June 1, 2005.
+
+IFIP/SEC 2005 is organized by IFIP TC-11 (Technical Committee on
+Security & Protection in Information Processing Systems;
+http://www.ifip.tu-graz.ac.at/TC11/) with the support of IPSJ (Information
+Processing Society of Japan; http://www.ipsj.or.jp/11english/).
+
+
+                         Conference  Scope
+
+Papers offering novel research contributions in any aspect of computer
+security are solicited for submission to the 20th IFIP International
+Information Security Conference. Papers may present theory, applications
+or practical experiences on topics including, but not limited to: 
+
+  - Applications of cryptography  - Data and system integrity
+  - Authentication                - Authorization and access control
+  - Data protection               - Information warfare and critical
+  - DRM & content security          protection infrastructure
+  - Privacy, anonymity            - Security models and policies
+  - Computer forensics            - Risk analysis and risk management
+  - Internet and web security     - Secure e-government
+  - Information hiding            - e-business/e-commerce security
+  - Security in sensor networks   - Secure information systems
+  - Intrusion detection             development
+  - Security management           - Assurance
+  - Security verification         - Key management
+  - Commercial and industrial     - Security architectures
+    security                      - Information law, ethics
+                                  - Mobility and ubiquitous systems
+
+
+                 Instructions for Paper Submission
+
+Submitted papers must be original, unpublished, and not submitted to another
+conference or journal for consideration of publication. Papers must be
+written in English; they should be at most 16 pages long in total, including
+bibliography and well-marked appendices. The paper should be intelligible
+without its appendices.
+
+Accepted papers will be presented at the conference and published in the
+conference proceedings, by Kluwer Academic Publishers. At least one author
+of each accepted paper is required to register with the conference and
+present the paper.
+
+Papers must be submitted in electronic form through the web. Web site for
+the electronic submission is now available at
+http://www.sec2005.org/submission.html . 
+
+Camera-ready versions will probably be requested to follow the publisher's
+templates (www.wkap.com/ifip/styles) and be at most 16 pages long in total,
+including bibliography and well-marked appendices.
+
+
+    Important dates
+      Submission of papers:       November 15, 2004
+      Notification to authors:    January 15, 2005
+      Camera-ready:               February 15, 2005
+
+
+                          Contact to
+
+                       info@sec2005.org
+
+
+                          Committees
+
+                   Conference General Chair
+        Ryoichi SASAKI, Tokyo Denki University, JAPAN
+
+                Programme Committee co-Chairs
+        Sihan QING, Chinese Academy of Sciences, CHINA
+          Eiji OKAMOTO, University of Tsukuba, JAPAN
+
+               Local Organizing Committee Chair
+      Yuko MURAYAMA, Iwate Prefectural University, JAPAN
