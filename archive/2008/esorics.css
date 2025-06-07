@@ -1,0 +1,163 @@
+body
+{
+background-color: #F0F0F0;
+color: #000040;
+font-family :  Helvetica, sans-serif 
+}
+
+.bodymain
+{
+color: #000040;
+background-color: #F0F0F0; 
+font-family :  Helvetica, sans-serif 
+}
+
+
+.back
+{
+background-color: #3396ff
+}
+
+.azurback
+{
+background-color: #0066ff
+}
+
+.maintitle
+{
+color: #000040;
+font-family:   Helvetica, sans-serif;
+font-size: 220%;
+background-color:#e5ecf9
+}
+
+.supertitle
+{
+color: #000040;
+font-family:   Helvetica, sans-serif;
+font-size: 320%;
+background-color:  #e5ecf9
+}
+
+
+.subtitle
+{
+color: #000040;
+font-family:   Helvetica, sans-serif;
+font-size: 155%;
+background-color:  #e5ecf9
+}
+
+A.banner1:visited  {
+color:  #000040;
+font-family : Helvetica, sans-serif;
+font-weight: bold;
+text-decoration: none;
+background-color: #3396ff
+}
+
+A.banner1:hover {
+    background :  #F0F0F0;
+    color : #3396ff;
+text-decoration : none;
+
+}
+
+#mainblock {
+	position: relative;
+		top: 2.0em;
+			width: 880px;
+				border: 1px solid #06f;
+					font-size: 1em;
+						background-color: #F0F0F0;
+							padding: 10px;
+							}
+
+#container {
+	width: 900px;
+		margin:0px auto; /* Right and left margin widths set to "auto" */
+			text-align:left; /* Counteract to IE5/Win Hack */
+				background-color: #F0F0F0;
+					font-family: Arial, Helvetica, sans-serif;
+						color: #000040;
+							font-weight: normal;
+								font-variant: normal;
+									font-size: 10pt;
+										position: relative;
+											}
+
+.banner1
+{
+color:  #000040;
+font-family : Helvetica, sans-serif;
+font-weight: bold;
+text-decoration: none;
+background-color: #3396ff
+}
+
+
+.tc
+{
+color: #000040;
+font-family :  Helvetica, sans-serif;
+background-color: #F0F0F0
+}
+
+
+h4, h3, h2, h1
+{
+color:  #000040;
+background-color: #F0F0F0;
+font-family : Helvetica, sans-serif
+}
+
+
+td, tr, dd, dt, ul, li
+{
+color: #000040;
+background-color: #F0F0F0;
+font-family : Helvetica, sans-serif
+}
+
+.mainlink
+{
+color:   #0066ff;
+font-family : Helvetica, sans-serif; 
+text-decoration: underline;
+background-color: transparent
+}
+
+A.mainlink:link
+{
+color:   #0066ff;
+font-family : Helvetica, sans-serif; 
+text-decoration: underline;
+background-color: transparent
+}
+
+A.mainlink:visited
+{
+color:   #0066ff;
+font-family : Helvetica, sans-serif; 
+text-decoration: underline;
+background-color: transparent
+}
+
+A.mainlink:hover
+{
+color:  #0066ff;
+font-family : Helvetica, sans-serif; 
+text-decoration: underline;
+background-color: transparent
+}
+
+.tcred
+{
+color:  #0066ff;
+font-family :  Helvetica, sans-serif;
+font-weight : bold;
+background-color: #F0F0F0
+}
+
+#006600
+

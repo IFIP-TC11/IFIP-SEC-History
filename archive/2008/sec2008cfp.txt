@@ -1,0 +1,136 @@
+                         CALL FOR PAPERS
+
+***********************************************************************
+     23rd International Information Security Conference (SEC 2008)
+           co-located with IFIP World Computer Congress 2008
+                  Milan, Italy - September 8-10, 2008
+                      http://sec2008.dti.unimi.it
+***********************************************************************
+
+The conference seeks submissions from academia and industry presenting novel research
+on all theoretical and practical aspects of computer security, as well as case studies
+and implementation experiences. Papers should have practical relevance to the construction,
+evaluation, application, or operation of secure systems. Theoretical papers must make
+convincing argument for the practical significance of the results. Topics of interest
+include, but are not limited to:
+
+- access control
+- accounting and audit
+- anonymity
+- applied cryptography
+- authentication
+- computer forensics
+- cryptographic protocols
+- database security
+- data protection
+- data/system integrity
+- digital rights management
+- electronic frauds
+- identity management
+- information warfare
+- intrusion detection
+- key management
+- law and ethics
+- peer-to-peer security
+- privacy-enhancing technology
+- secure location services
+- secure networking
+- security education
+- security management
+- smartcards
+- commercial and industry security
+- data and application security
+- inference/controlled disclosure
+- risk analysis and risk management
+- intellectual property protection
+- security in IT outsourcing
+- security for mobile code
+- trust management
+- trust models
+
+
+PAPER SUBMISSIONS
+Submitted papers must not substantially overlap papers that have been published or that
+are simultaneously submitted to a journal or a conference with proceedings.
+Papers should be at most 15 pages including the bibliography and well-marked appendices
+(using 11-point font and reasonable margins on letter-size paper), and should be in
+single-column format. Committee members are not required to read the appendices, and so
+the paper should be intelligible without them. Submissions are to be made to the
+submission web site at http://www.easychair.org/conferences/?conf=sec2008.
+Only pdf files will be accepted. Submissions not meeting these guidelines
+risk rejection without consideration of their merits. Papers must be received by the
+deadline of January 17, 2008 (extended, firm).
+Authors of accepted papers must guarantee that their papers will be presented at the
+conference. Accepted papers will be published by Springer in a conference proceedings.
+The camera-ready version of the accepted papers must follow Springer guidelines for
+the IFIP Series available at http://www.springer.com/series/6102 (see Manuscript
+Preparation in LaTeX for contributed books under the link "Author Templates").
+A Latex source file will be required. 
+
+
+GENERAL CHAIRS 
+Sabrina De Capitani di Vimercati     
+Universita' degli Studi di Milano, Italy 
+
+Giulio Occhini    
+AICA, Italy 
+
+
+PROGRAM CHAIRS 
+Sushil Jajodia 
+George Mason University, USA 
+    
+Pierangela Samarati 
+Universita' degli Studi di Milano, Italy 
+
+
+IMPORTANT DATES
+Paper Submission due: January 17, 2008 (extended, firm)
+Acceptance notification: March 23, 2008 
+Final papers due: April 18, 2008 
+
+    
+PROGRAM COMMITTEE
+Claudio Ardagna, Universita' degli Studi di Milano, Italy  
+Vijay Atluri, Rutgers University, USA 
+Tuomas Aura, Microsoft Research, UK 
+Aditya Bagchi, Indian Statistical Institute, India 
+Jan Camenisch, IBM Zurich Research Laboratory, Switzerland
+Marco Casassa Mont, HP Laboratories, UK
+Yves Deswarte, LAAS-CNRS, France 
+Bart DeDecker, K.U.Leuven, Belgium 
+Kevin Du, Syracuse University, USA 
+Jan Eloff, University of Pretoria, South Africa 
+Simone Fischer-Huebner, Karlstad University, Sweden 
+Steven Furnell, University of Plymouth, UK 
+Sara Foresti, Universita' degli Studi di Milano, Italy 
+Michael Gertz, University of California at Davis, USA 
+Dimitris Gritzalis, Athens University of Economics and Business, Greece 
+Dieter Gollmann, Technische Universitat Hamburg, Germany 
+Le Gruenwald, University of Oklahoma, USA 
+Yong Guan, Iowa State University, USA 
+Jaap-Henk Hoepman, Radboud University Nijmegen, Netherlands 
+Angelos Keromytis, Columbia University, USA 
+Yongdae Kim, University of Minnesota, USA 
+Peng Liu, Pennsylvania State University, USA 
+Javier Lopez, University of Malaga, Spain 
+Refik Molva, Institut Eurecom, France 
+Yuko Murayama, Iwate Prefectural University, Japan 
+Peng Ning, North Carolina State University, USA 
+Stefano Paraboschi, Universita' di Bergamo, Italy 
+Philippos Peleties, Universal Bank Public Ltd, Cyprus 
+Günther Pernul, University of Regensburg, Germany 
+Sihan Qing, Chinese Academy of Sciences, China 
+Kai Rannenberg, Goethe University Frankfurt, Germany 
+Indrajit Ray, Colorado State University, USA 
+Kent Seamons, Brigham Young University, USA 
+Cristina Serban, AT&T, USA 
+Stephanie Teufel, University of Fribourg, Switzerland 
+Jozef Vyskoc, VaF, Slovak Republic 
+LingYu Wang, Concordia University, Canada 
+Sean Wang, University of Vermont, USA 
+Tatjana Welzer, University of Maribor, Slovenia
+Louise Yngstrom, SU/KTH, Sweden 
+
+
+This call for papers and additional information about the conference can be found at http://sec2008.dti.unimi.it
